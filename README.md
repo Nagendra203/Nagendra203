@@ -24,5 +24,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nagendra203&show_icons=true&locale=en" alt="nagendra203" /></p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nagendra203&limit=5&theme=flat&combine_all_yearly_contributions=true)
