@@ -5,6 +5,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
+- 🔭 I’m currently working on **DevOps**
+
+- 🌱 I’m currently learning **Terraform,Kubernetes**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Nagendra203](https://github.com/Nagendra203)
+
 - 💬 Ask me about **DevOps & Cloud DevOps**
 
 <h3 align="left">Connect with me:</h3>
@@ -17,3 +23,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagendra203&show_icons=true&locale=en&layout=compact" alt="nagendra203" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nagendra203&show_icons=true&locale=en" alt="nagendra203" /></p>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Nagendra203&limit=5&theme=flat&combine_all_yearly_contributions=true)
